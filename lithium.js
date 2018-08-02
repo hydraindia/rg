@@ -249,4 +249,4 @@ bot.on("message", async message => {
     return message.channel.send(binvitembed);
   }
 });
-bot.login('NDYzMjY4MDE1MDQ4NDkxMDA5.Diegqg.pp41W9_-oaW-O5kx0kA68FwAW2s')
+bot.login('process.env.TOKEN')
